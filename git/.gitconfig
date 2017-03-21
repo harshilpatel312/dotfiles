@@ -136,3 +136,5 @@
 [user]
 	email = ms.ibnseddik@gmail.com
 	name = Mohamed Saad Ibn Seddik
+[pull]
+	rebase = true

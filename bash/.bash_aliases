@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # ----------------------------------------------------------------------
-alias gs='git status'
+alias gs='git status -s'
 alias gc='git commit'
 alias ga='git add'
 alias gd='git diff'
