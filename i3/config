@@ -192,4 +192,4 @@ bar {
         tray_output primary
 }
 
-exec --no-startup-id syndaemon -i .5 -K -d 
+exec --no-startup-id syndaemon -i .8 -K -R -d 
