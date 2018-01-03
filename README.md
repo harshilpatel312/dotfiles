@@ -1,13 +1,12 @@
-[Mohamed Saad IBN SEDDIK's](https://github.com/msis) Linux .files
+[HARSHIL's](https://github.com/harshilpatel312) Linux .files
 =================================================================
-[![Build Status](https://travis-ci.org/msis/dotfiles.svg?branch=master)](https://travis-ci.org/msis/dotfiles)
 
-Dotfiles to quickly configure your system. 
+Dotfiles to quickly configure your system.
 
 # Setup
 In a terminal, type:
 ```bash
-bash -c "$(wget -qO - https://raw.github.com/msis/dotfiles/master/install.sh)"
+bash -c "$(wget -qO - https://raw.github.com/harshilpatel312/dotfiles/master/install.sh)"
 ```
 
 # Personal Settings
@@ -18,8 +17,8 @@ It is appended to the `.gitconfig` defined in this project to allow overiding th
 ### Example:
 ```ini
 [user]
-	email = ms.ibnseddik@gmail.com
-	name = Mohamed Saad IBN SEDDIK
+	email = harshilpatel312@gmail.com
+	name = Harshil Patel
 ```
 
 ## Bash's `~/.bash.local`
@@ -34,6 +33,9 @@ alias g="git"
 ```  
 
 # Acknowledgments
+This repo is forked from:
+- [Mohamed Saad Ibn Seddik](https://github.com/msis) [dotfiles](https://github.com/msis/dotfiles).
+
 This dotfiles are inspired from :
 - [Jessie Frazelle](https://github.com/jfrazelle) [dotfiles](https://github.com/jfrazelle/dotfiles).
 - [Cătălin Mariș](https://github.com/alrra) [dotfiles](https://github.com/alrra/dotfiles).

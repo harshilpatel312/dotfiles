@@ -127,14 +127,14 @@
     # Make `git push` automatically push relevant
     # annotated tags when pushing branches out
     followTags = true
-    
+
     default = simple
 
 [include]
 
     path = ~/.gitconfig.local
 [user]
-	email = ms.ibnseddik@gmail.com
-	name = Mohamed Saad Ibn Seddik
+	email = harshilpatel312@gmail.com
+	name = Harshil Patel
 [pull]
 	rebase = true
