@@ -27,3 +27,4 @@ PROMPT_COMMAND="history -a;$PROMPT_COMMAND"
 ## additional layer above the default ubuntu 14.04 .bashrc 
 source ~/.bash_prompt
 source ~/.bash_exports
+alias go='xdg-open'
