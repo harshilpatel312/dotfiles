@@ -28,3 +28,5 @@ PROMPT_COMMAND="history -a;$PROMPT_COMMAND"
 source ~/.bash_prompt
 source ~/.bash_exports
 alias go='xdg-open'
+bind '"\e[A": history-search-backward'
+bind '"\e[B": history-search-forward'
